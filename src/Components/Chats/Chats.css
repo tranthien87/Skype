@@ -5,8 +5,8 @@
     align-items: flex-start;
     width: 85%;
     margin: 0 auto;
-    overflow-y: scroll;
-    height: 220px;
+    overflow-y: auto ;
+   
   }
   .Chat {
     margin: 1rem 0;
